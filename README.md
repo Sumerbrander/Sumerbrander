@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sumerbrander
-- 👀 I’m a beginner in the tech world.
-- 🌱 I’m currently learning css and front end language.
-- 💞️ I’m looking to build on my front end skills and cross to mobile dev using Flutter language.
+- 👀 I just switched to the field of data science.
+- 🌱 I’m currently going through my learning phase using multiple platforms.
+- 💞️ I’m looking to become a master data scientist with intention of focusing on machine learning.
 - 📫 How to reach me: If you don't mind the fact that I'm an amatuer and you'd like to help me learn, here is my email: oladelemichael66@gmail.com
 
 <!---
